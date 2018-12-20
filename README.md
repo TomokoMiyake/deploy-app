@@ -5,11 +5,11 @@ Please refer to the article for detail information.
 
 # File structure example
 -- program     
-  |-- node_modules     
-  |-- package.json     
-  |-- etc     
-  |-- config.js     
-  |-- deployApp.js     
+　|-- node_modules     
+　|-- package.json     
+　|-- etc     
+　|-- config.js     
+　|-- deployApp.js     
 
 # Required modules
 - Node.js (v8.11.4)
