@@ -1,6 +1,6 @@
 # Overview
 You can deploy kintone App from CLI.     
-This repository is made for **[kintone Advent Calendar 2018 Day-20 article]()**.     
+This repository is made for **[kintone Advent Calendar 2018 Day-20 article](https://qiita.com/Tomosuke/items/b409315d3464d01c1ba1)**.     
 Please refer to the article for detail information.     
 
 # File structure example
