@@ -4,12 +4,12 @@ This repository is made for **[kintone Advent Calendar 2018 Day-20 article]()**.
 Please refer to the article for detail information.     
 
 # File structure example
--- program
-  |-- node_modules
-  |-- package.json
-  |-- etc
-  |-- config.js
-  |-- deployApp.js
+-- program     
+  |-- node_modules     
+  |-- package.json     
+  |-- etc     
+  |-- config.js     
+  |-- deployApp.js     
 
 # Required modules
 - Node.js (v8.11.4)
